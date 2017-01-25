@@ -1,2 +1,3 @@
 # BambooForest
-Panda's food court
+Panda's food court.
+There are many bamboos here.
